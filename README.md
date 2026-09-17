@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [velardtools.my.id](https://github.com/FransLard/VTOOLS)
 
-- 🌱 I’m currently learning **Frameworks, Cyber Security**
+- 🌱 I’m currently learning **Frameworks & Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://frans-lampard.vercel.app/](https://frans-lampard.vercel.app/)
 
