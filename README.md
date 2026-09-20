@@ -15,23 +15,23 @@
 ---
 
 ### 💻 About Me
-* 🔭 I’m currently working on [velardtools.my.id](https://velardtools.my.id)
-* 🌱 I’m currently learning Frameworks & Cyber Security
-* 👨‍💻 All of my projects are available at [frans-lampard.vercel.app](https://frans-lampard.vercel.app/)
+* 🔭 I’m currently working on [Velard Tools](https://velardtools.my.id) | Repository: [VTOOLS](https://github.com/FransLard/VTOOLS)
+* 🌱 I’m currently learning **Frameworks & Cyber Security**
+* 👨‍💻 All of my projects are available at [https://frans-lampard.vercel.app/](https://frans-lampard.vercel.app/)
 * 📫 How to reach me: **franslampard321@gmail.com**
-* ⚡ Fun fact: I'm a content creator & my hobby is editing videos!
+* ⚡ Fun fact: I'm a content creator & my hobby is editing videos.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,git,github,vscode,vmware,kali,premiere,aftereffects&perline=7" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,php,laravel,tailwind,git,github,linux,bash,mysql,nginx,vscode&perline=6" alt="Tech Stack Icons"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frans-lampard&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frans-lampard&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FransLard&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransLard&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
