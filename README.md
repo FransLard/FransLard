@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:franslampard321@gmail.com" target="_blank">
+  <a href="mailto:franslampard321@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -18,7 +18,7 @@
 * 🔭 I’m currently working on [Velard Tools](https://velardtools.my.id) | Repository: [VTOOLS](https://github.com/FransLard/VTOOLS)
 * 🌱 I’m currently learning **Frameworks & Cyber Security**
 * 👨‍💻 All of my projects are available at [https://frans-lampard.vercel.app/](https://frans-lampard.vercel.app/)
-* 📫 How to reach me: <a href="mailto:franslampard321@gmail.com">**franslampard321@gmail.com**</a>
+* 📫 How to reach me: [franslampard321@gmail.com](mailto:franslampard321@gmail.com)
 * ⚡ Fun fact: I'm a content creator & my hobby is editing videos.
 
 ---
