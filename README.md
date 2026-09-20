@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:franslampard321@gmail.com">
+  <a href="mailto:franslampard321@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -18,20 +18,12 @@
 * 🔭 I’m currently working on [Velard Tools](https://velardtools.my.id) | Repository: [VTOOLS](https://github.com/FransLard/VTOOLS)
 * 🌱 I’m currently learning **Frameworks & Cyber Security**
 * 👨‍💻 All of my projects are available at [https://frans-lampard.vercel.app/](https://frans-lampard.vercel.app/)
-* 📫 How to reach me: **franslampard321@gmail.com**
+* 📫 How to reach me: <a href="mailto:franslampard321@gmail.com">**franslampard321@gmail.com**</a>
 * ⚡ Fun fact: I'm a content creator & my hobby is editing videos.
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,php,laravel,tailwind,git,github,linux,bash,mysql,nginx,vscode&perline=6" alt="Tech Stack Icons"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FransLard&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransLard&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,php,laravel,tailwind,git,github,linux,bash,mysql,nginx,vscode,aftereffects&perline=6" alt="Tech Stack Icons"/>
 </p>
