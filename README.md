@@ -6,6 +6,7 @@
   <a href="https://frans-lampard.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:franslampard321@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
@@ -31,6 +32,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=frans-lampard&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frans-lampard&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frans-lampard&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frans-lampard&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
