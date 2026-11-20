@@ -20,10 +20,3 @@
 * 👨‍💻 All of my projects are available at [https://frans-lampard.vercel.app/](https://frans-lampard.vercel.app/)
 * 📫 How to reach me: [franslampard321@gmail.com](mailto:franslampard321@gmail.com)
 * ⚡ Fun fact: I'm a content creator & my hobby is editing videos.
-
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,php,laravel,tailwind,git,github,linux,bash,mysql,nginx,vscode,aftereffects&perline=6" alt="Tech Stack Icons"/>
-</p>
